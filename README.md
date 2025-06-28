@@ -63,10 +63,10 @@ La aplicación fue diseñada con el apoyo de ChatGPT, usando prompts específico
 ---
 
 ## 👥 Grupo 3 – Presentador y Datos Vivos
-- 📩 Juan Gabriel Pared
-- 📩 Leonel Fernández
-- 📩 Enzo Ríos
-- 📩 Juan Francisco Bartlett
+- 👤 **Juan Gabriel Pared**
+- 👤 **Leonel Fernández**
+- 👤 **Enzo Ríos**
+- 👤 **Juan Francisco Bartlett**
 
 ---
 
