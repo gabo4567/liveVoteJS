@@ -1,10 +1,10 @@
-# 🗳️ **Voto Vivo**
+## 🗳️ Voto Vivo
 
 Aplicación de votación electrónica desarrollada por el **Grupo 3** para la práctica intensiva de **Bases de Datos – Unidad IV**. Utiliza tecnologías web modernas (HTML, CSS, JavaScript) y almacenamiento no relacional (`localStorage`) para registrar y mostrar votos en tiempo real.
 
 ---
 
-## **🚀 Funcionalidad**
+## 🚀 Funcionalidad
 
 - Registro de votos de forma local desde el navegador.
 - Visualización dinámica y en vivo de los resultados.
@@ -14,7 +14,24 @@ Aplicación de votación electrónica desarrollada por el **Grupo 3** para la pr
 
 ---
 
-## **🧠 Tecnología utilizada**
+## 📡 ¿Cómo se leen y muestran los datos en vivo?
+En esta aplicación de votación electrónica, los datos se almacenan y procesan en tiempo real usando localStorage, que es una forma de guardar información directamente en el navegador del usuario.
+
+## 🔹 Lectura de datos
+Cada vez que un usuario hace clic en un botón para votar, el sistema:
+- Lee los votos actuales desde localStorage con JSON.parse().
+- Suma uno al jugador seleccionado.
+- Guarda nuevamente los datos actualizados en localStorage con JSON.stringify().
+
+## 🔹 Visualización en vivo
+Después de registrar el voto:
+- Se actualiza un gráfico de barras usando la librería Chart.js.
+- Se genera una tabla de ranking ordenada por cantidad de votos.
+- Ambas visualizaciones se actualizan automáticamente sin necesidad de recargar la página, lo que permite mostrar los resultados en vivo de forma clara e interactiva.
+
+---
+
+## 🧠 Tecnología utilizada
 
 - **HTML5** + **CSS3**  
 - **JavaScript (Vanilla)**  
@@ -24,7 +41,7 @@ Aplicación de votación electrónica desarrollada por el **Grupo 3** para la pr
 
 ---
 
-## **⚙️ Cómo usar la app**
+## ⚙️ Cómo usar la app
 
 1. Clonar el repositorio:
    ```bash
