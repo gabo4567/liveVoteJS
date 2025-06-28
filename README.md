@@ -37,7 +37,7 @@ Aplicación de votación electrónica desarrollada por el Grupo 3 para la práct
 
 ---
 
-## 📄 Documentación IA
+## 📄 **Documentación IA**
 
 La aplicación fue diseñada con el apoyo de **ChatGPT**, usando prompts específicos para:
 
@@ -50,22 +50,22 @@ Todos los prompts utilizados y sus resultados se documentan en la carpeta `./doc
 
 ---
 
-## 👥 Grupo 3 – Presentador y Datos Vivos
+## 👥 **Grupo 3 – Presentador y Datos Vivos**
 
-* Juan Gabriel Pared
-* Leonel Fernández
-* Enzo Ríos
-* Juan Gabriel Pared
+**- Juan Gabriel Pared**
+**- Leonel Fernández**
+**- Enzo Ríos**
+**- Juan Francisco Bartlett**
 
 ---
 
-## 📊 Justificación académica
+## 📊 **Justificación académica**
 
 El sistema simula una base de datos **No Relacional**, utilizando `localStorage` para registrar estructuras de datos tipo JSON. Se hace énfasis en cómo los datos no estructurados pueden leerse y presentarse en vivo, sin necesidad de backend, conectando así teoría con práctica.
 
 ---
 
-## 📸 Capturas
+## 📸 **Capturas**
 
 > 📍 (Acá se pueden insertar imágenes del sistema en funcionamiento)
 
