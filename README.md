@@ -1,5 +1,4 @@
 ## 🗳️ Voto Vivo
-
 Aplicación de votación electrónica desarrollada por el **Grupo 3** para la práctica intensiva de **Bases de Datos – Unidad IV**. Utiliza tecnologías web modernas (HTML, CSS, JavaScript) y almacenamiento no relacional (`localStorage`) para registrar y mostrar votos en tiempo real.
 
 ---
@@ -13,7 +12,6 @@ Aplicación de votación electrónica desarrollada por el **Grupo 3** para la pr
 ---
 
 ## 🚀 Funcionalidad
-
 - Registro de votos de forma local desde el navegador.
 - Visualización dinámica y en vivo de los resultados.
 - Gráfica interactiva de resultados actualizándose automáticamente.
@@ -40,7 +38,6 @@ Después de registrar el voto:
 ---
 
 ## 🧠 Tecnología utilizada
-
 - **HTML5** + **CSS3**  
 - **JavaScript (Vanilla)**  
 - **localStorage** (como sistema de persistencia NoSQL)  
@@ -50,7 +47,6 @@ Después de registrar el voto:
 ---
 
 ## ⚙️ Cómo usar la app
-
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/usuario/voto-vivo.git
