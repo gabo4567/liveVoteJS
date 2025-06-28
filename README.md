@@ -37,6 +37,20 @@ Después de registrar el voto:
 
 ---
 
+## 📄 Documentación de Prompts Utilizados
+
+| Nº | Prompt                                                                 | Resultado                                                                 |
+|----|------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| 1  | **ACTIVIDAD DE PRÁCTICA 01** - Diseño de herramienta de votación electrónica que utilice `localStorage` | Plan general paso a paso, objetivos, desarrollo en HTML/JS/CSS con `localStorage`. |
+| 2  | ¿Cómo creo un proyecto en Visual Studio Code para este proyecto?      | Instrucciones para crear carpeta, archivos, abrir en VS Code y usar Live Server. |
+| 3  | Quiero gráficas tipo barras verticales con 10 opciones (Top 10 jugadores actuales) | Código HTML, CSS y JS con Chart.js para votar por 10 jugadores y ver gráfico de barras. |
+| 4  | **Sí** (respuesta a propuesta de mejoras)                             | Se agregaron animaciones, botón para reiniciar votos y tabla de ranking. |
+| 5  | Escribir una breve explicación de cómo se leen y muestran los datos en vivo | Texto teórico explicando el uso de `localStorage` y visualización en tiempo real. |
+| 6  | ¿Cómo subir este proyecto a un repositorio de GitHub que me compartirá mi compañero? | Pasos para hacer commit, conectar con el repositorio y subir con Git. |
+| 7  | ¿Cuáles son los prompts que usé para esto o cómo lo averiguo?         | Resumen de todos los mensajes clave como prompts utilizados. |
+
+---
+
 ## 🧠 Tecnología utilizada
 - **HTML5** + **CSS3**  
 - **JavaScript (Vanilla)**  
