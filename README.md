@@ -82,5 +82,3 @@ El sistema simula una base de datos No Relacional, utilizando localStorage para 
 
 ## 📢 Licencia
 Proyecto académico sin fines de lucro. Todos los derechos reservados al grupo de trabajo.
-
----
