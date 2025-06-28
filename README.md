@@ -1,5 +1,5 @@
 ## 🗳️ Voto Vivo
-Aplicación de votación electrónica desarrollada por el **Grupo 3** para la práctica intensiva de **Bases de Datos – Unidad IV**. Utiliza tecnologías web modernas (HTML, CSS, JavaScript) y almacenamiento no relacional (`localStorage`) para registrar y mostrar votos en tiempo real.
+Aplicación de votación electrónica desarrollada por el **Grupo 3** para la práctica intensiva de **Bases de Datos II**. Utiliza tecnologías web modernas (HTML, CSS, JavaScript) y almacenamiento no relacional (`localStorage`) para registrar y mostrar votos en tiempo real.
 
 ---
 
