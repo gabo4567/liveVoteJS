@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+h1 {
+  color: #222;
+}
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.reset-btn {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+}
+canvas {
+  margin-top: 30px;
+}
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 60%;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+th {
+  background-color: #007bff;
+  color: white;
+}

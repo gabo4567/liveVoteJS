@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Votación Top 10 Jugadores</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <h1>Votación: Top 10 Jugadores Actuales</h1>
+  <div class="opciones">
+    <button onclick="votar('Messi')">Messi</button>
+    <button onclick="votar('Mbappé')">Mbappé</button>
+    <button onclick="votar('Haaland')">Haaland</button>
+    <button onclick="votar('De Bruyne')">De Bruyne</button>
+    <button onclick="votar('Vinícius')">Vinícius</button>
+    <button onclick="votar('Kane')">Kane</button>
+    <button onclick="votar('Salah')">Salah</button>
+    <button onclick="votar('Bellingham')">Bellingham</button>
+    <button onclick="votar('Rodri')">Rodri</button>
+    <button onclick="votar('Lewandowski')">Lewandowski</button>
+  </div>
+  <button class="reset-btn" onclick="reiniciarVotos()">Reiniciar Votación</button>
+
+  <h2>Resultados:</h2>
+  <canvas id="grafico" width="600" height="400"></canvas>
+
+  <h2>Ranking Actual:</h2>
+  <table id="ranking">
+    <thead><tr><th>Jugador</th><th>Votos</th></tr></thead>
+    <tbody></tbody>
+  </table>
+
+  <script src="script.js"></script>
+</body>
+</html>
