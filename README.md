@@ -1,10 +1,10 @@
-# 🗳️ Voto Vivo
+# 🗳️ **Voto Vivo**
 
-Aplicación de votación electrónica desarrollada por el Grupo 3 para la práctica intensiva de Bases de Datos – Unidad IV. Utiliza tecnologías web modernas (HTML, CSS, JavaScript) y almacenamiento no relacional (`localStorage`) para registrar y mostrar votos en tiempo real.
+Aplicación de votación electrónica desarrollada por el **Grupo 3** para la práctica intensiva de **Bases de Datos – Unidad IV**. Utiliza tecnologías web modernas (HTML, CSS, JavaScript) y almacenamiento no relacional (`localStorage`) para registrar y mostrar votos en tiempo real.
 
 ---
 
-## 🚀 Funcionalidad
+## **🚀 Funcionalidad**
 
 - Registro de votos de forma local desde el navegador.
 - Visualización dinámica y en vivo de los resultados.
@@ -14,7 +14,7 @@ Aplicación de votación electrónica desarrollada por el Grupo 3 para la práct
 
 ---
 
-## 🧠 Tecnología utilizada
+## **🧠 Tecnología utilizada**
 
 - **HTML5** + **CSS3**  
 - **JavaScript (Vanilla)**  
@@ -24,7 +24,7 @@ Aplicación de votación electrónica desarrollada por el Grupo 3 para la práct
 
 ---
 
-## ⚙️ Cómo usar la app
+## **⚙️ Cómo usar la app**
 
 1. Clonar el repositorio:
    ```bash
@@ -37,7 +37,7 @@ Aplicación de votación electrónica desarrollada por el Grupo 3 para la práct
 
 ---
 
-## 📄 **Documentación IA**
+## **📄 Documentación IA**
 
 La aplicación fue diseñada con el apoyo de **ChatGPT**, usando prompts específicos para:
 
@@ -50,28 +50,28 @@ Todos los prompts utilizados y sus resultados se documentan en la carpeta `./doc
 
 ---
 
-## 👥 **Grupo 3 – Presentador y Datos Vivos**
+## **👥 Grupo 3 – Presentador y Datos Vivos**
 
-**- Juan Gabriel Pared**
-**- Leonel Fernández**
-**- Enzo Ríos**
-**- Juan Francisco Bartlett**
+* 📩 **Juan Gabriel Pared**
+* 📩 **Leonel Fernández**
+* 📩 **Enzo Ríos**
+* 📩 **Juan Francisco Bartlett**
 
 ---
 
-## 📊 **Justificación académica**
+## **📊 Justificación académica**
 
 El sistema simula una base de datos **No Relacional**, utilizando `localStorage` para registrar estructuras de datos tipo JSON. Se hace énfasis en cómo los datos no estructurados pueden leerse y presentarse en vivo, sin necesidad de backend, conectando así teoría con práctica.
 
 ---
 
-## 📸 **Capturas**
+## **📸 Capturas**
 
 > 📍 (Acá se pueden insertar imágenes del sistema en funcionamiento)
 
 ---
 
-## 📢 Licencia
+## **📢 Licencia**
 
 Proyecto académico sin fines de lucro. Todos los derechos reservados al grupo de trabajo.
 
