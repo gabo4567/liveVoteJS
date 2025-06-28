@@ -4,6 +4,14 @@ Aplicación de votación electrónica desarrollada por el **Grupo 3** para la pr
 
 ---
 
+## 👥 Grupo 3 – Presentador y Datos Vivos
+- 👤 **Juan Gabriel Pared**
+- 👤 **Leonel Fernández**
+- 👤 **Enzo Ríos**
+- 👤 **Juan Francisco Bartlett**
+
+---
+
 ## 🚀 Funcionalidad
 
 - Registro de votos de forma local desde el navegador.
@@ -59,14 +67,6 @@ La aplicación fue diseñada con el apoyo de ChatGPT, usando prompts específico
 - Generación de gráficas en tiempo real.
 - Explicación teórica sobre bases de datos NoSQL vs SQL.
 - Todos los prompts utilizados y sus resultados se documentan en la carpeta ./documentacion.
-
----
-
-## 👥 Grupo 3 – Presentador y Datos Vivos
-- 👤 **Juan Gabriel Pared**
-- 👤 **Leonel Fernández**
-- 👤 **Enzo Ríos**
-- 👤 **Juan Francisco Bartlett**
 
 ---
 
