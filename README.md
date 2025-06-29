@@ -86,8 +86,11 @@ El sistema simula una base de datos No Relacional, utilizando localStorage para 
 ---
 
 ## 📸 Capturas
-📍 (Acá se pueden insertar imágenes del sistema en funcionamiento)
+📍 **Sistema en Funcionamiento**
 ![image](https://github.com/user-attachments/assets/6bb92b32-3f47-4be4-aba8-9df5f4246491)
+![image](https://github.com/user-attachments/assets/08cfc74a-93fe-463a-a540-a9ee9372939e)
+![image](https://github.com/user-attachments/assets/a89ae4ed-a650-489d-b39b-20f2bb321e34)
+
 
 ---
 
